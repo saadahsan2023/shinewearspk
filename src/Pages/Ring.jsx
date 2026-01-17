@@ -64,10 +64,10 @@ const [isModalOpen, setIsModalOpen] = useState(false);
       </motion.section>
 
          
-        {isModalOpen &&
+        {/* {isModalOpen &&
 
          <Modal />
-        }  
+        }   */}
       
       <section className="px-8 py-16 bg-white">
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-10 max-w-7xl mx-auto">
