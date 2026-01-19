@@ -12,6 +12,7 @@ import Necklaces from './Pages/Necklaces'
 import Earrings from './Pages/Earring'
 import Bracelet from './Pages/Bracelets'
 
+
 function App() {
   const [count, setCount] = useState(0)
 
